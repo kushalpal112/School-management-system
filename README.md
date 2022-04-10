@@ -1,2 +1,2 @@
-# School-management-system
+# Student-management-system
 SMS
